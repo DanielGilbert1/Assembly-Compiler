@@ -1,0 +1,5 @@
+[Info] Successfully opened the file "TooManyWords.as".
+[Error] At line 342: Too much data and code. Max memory words is 1024.
+[Info] Memory is full. Stopping to read the file.
+[Info] A total of 2 errors were found throughout "TooManyWords.as".
+

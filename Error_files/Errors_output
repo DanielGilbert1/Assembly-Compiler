@@ -1,0 +1,18 @@
+[Info] Successfully opened the file "Errors.as".
+[Error] At line 5: Not enough operands.
+[Error] At line 7: a comma after the last parameter is invalid.
+[Error] At line 10: Label already defined as an entry label.
+[Error] At line 14: Source operand for "lea" command must be a label.
+[Error] At line 16: Destination operand for "sub" command can't be a number.
+[Error] At line 18: One of the operands is missing.
+[Error] At line 22: Too many operands.
+[Error] At line 24: No such command as "move".
+[Error] At line 26: Label already exists.
+[Error] At line 29: No such directive as "some".
+[Error] At line 31: Can't write a label to an empty line.
+[Error] At line 33: Label is too long. Max label name length is 31.
+[Error] At line 35: Line is too long. Max line length is 80.
+[Error] At line 12: The parameter for .entry can't be an external label.
+[Error] At line 20: No such label as "A"
+[Info] A total of 15 errors were found throughout "Errors.as".
+
